@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ui cards"
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="content"
+      >
+        <div
+          class="header"
+        >
+          SE18 3AD
+        </div>
+        <div
+          class="meta"
+        >
+          England
+        </div>
+        <div
+          class="description"
+        >
+          London
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
